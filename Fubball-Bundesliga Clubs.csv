@@ -1,0 +1,19 @@
+Rk,Squad,MP,W,D,L,GF,GA,GDiff,Pts,xG,xGA,xGDiff,xGDiff/90,Last 5,Attendance,Top Team Scorer,Goalkeeper,Notes\
+1,Bayern Munich,30,22,4,4,90,30,60,70,74.9,30.9,44,1.47,W W W W W,75000,Robert Lewandowski - 30,Manuel Neuer,\
+2,Dortmund,30,19,6,5,81,35,46,63,54,34.7,19.3,0.64,W W L W W,74927,Jadon Sancho - 17,Roman B\'fcrki,\
+3,RB Leipzig,30,16,11,3,75,32,43,59,65.4,30.9,34.5,1.15,D W D W D,37686,Timo Werner - 25,P\'e9ter Gul\'e1csi,\
+4,M'gladbach,30,17,5,8,57,36,21,56,59.1,40.6,18.5,0.62,W L D W L,47180,Marcus Thuram Alassane Pl\'e9a - 10,Yann Sommer,\
+5,Leverkusen,30,17,5,8,56,40,16,56,50.2,41,9.3,0.31,W W L W L,27770,Kai Havertz - 11,Luk\'e1\'9a Hr\'e1deck\'fd,\
+6,Hoffenheim,30,12,7,11,42,50,-8,43,42.8,48.9,-6.1,-0.2,L D W W D,24831,Andrej Kramari\uc0\u263  - 7,Oliver Baumann,\
+7,Wolfsburg,29,11,9,9,41,36,5,42,41.2,31.6,9.7,0.33,D W L W L,24351,Wout Weghorst - 11,Koen Casteels,\
+8,Freiburg,30,11,8,11,39,41,-2,41,35.2,54.9,-19.7,-0.66,D L D L W,23925,Nils Petersen - 10,Alexander Schwolow,\
+9,Hertha BSC,30,10,8,12,43,51,-8,38,35.2,43.7,-8.4,-0.28,W W D W L,49286,Dodi Lukebakio - 6,Rune Jarstein,\
+10,Schalke 04,29,9,10,10,34,46,-12,37,31.7,41.8,-10.1,-0.35,D L L L L,61044,Suat Serdar - 7,Alexander N\'fcbel,\
+11,Eint Frankfurt,30,10,5,15,49,55,-6,35,45.5,45.9,-0.4,-0.01,L D W W L,46338,Martin Hinteregger Andr\'e9 Silva - 8,Kevin Trapp,\
+12,K\'f6ln,29,10,4,15,46,56,-10,34,43,42.8,0.2,0.01,L D D L L,45892,Jhon C\'f3rdoba - 12,Timo Horn,\
+13,Augsburg,29,8,7,14,40,56,-16,31,37.8,47.9,-10.1,-0.35,L L W D L,26501,Florian Niederlechner - 11,Tom\'e1\'9a Koubek,\
+14,Union Berlin,29,9,4,16,34,52,-18,31,32.9,48.2,-15.4,-0.53,L L L D L,20226,Sebastian Andersson - 12,Rafa\uc0\u322  Gikiewicz,\
+15,Mainz 05,30,9,4,17,39,62,-23,31,39.7,52.7,-13,-0.43,D L D L W,27062,Robin Quaison - 12,Robin Zentner,\
+16,D\'fcsseldorf,30,6,10,14,33,60,-27,28,31.8,52.1,-20.3,-0.68,D D W L D,39991,Rouwen Hennings - 14,Zack Steffen,\
+17,Werder Bremen,29,6,7,16,30,62,-32,25,33.1,42.1,-8.9,-0.31,L W D W L,37419,Milot Rashica - 7,Ji\uc0\u345 \'ed Pavlenka,\
+18,Paderborn 07,30,4,8,18,33,62,-29,20,34.5,57.5,-23,-0.77,D D D L D,14434,Streli Mamba Dennis Srbeny - 5,Leopold Zingerle,}
